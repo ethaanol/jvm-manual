@@ -102,8 +102,8 @@ Let's go over a few of the most important ones.
 | `iadd` | Arithmetic | Adds the latest 2 integer primitive type stack elements together and pushes the result. | Low |
 | `isub` | Arithmetic | Subtracts the latest 2 integer primitive type stack elements and pushes the result. | Low |
 | `ixor` | Bitwise | Performs an exclusive OR operation on the 2 latest integer primitive type stack elements. | Medium |
-| `invokestatic` | Invocation | Invokes a static method from a class. |  |
-| `invokevirtual` | Invocation | Invokes a method from a class using an instance of said class. |  |
+| `invokestatic` | Invocation | Invokes a static method from a class. | High |
+| `invokevirtual` | Invocation | Invokes a method from a class using an instance of said class. | High |
 
 # Invocation
 
