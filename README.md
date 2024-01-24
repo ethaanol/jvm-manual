@@ -70,7 +70,7 @@ the prefix being `L` and the suffix being `;` let's say you have a class in:
 
 If you wanted to use it in a descriptor, it would be:
 
-`Lme/myname/Myclass;`
+`Lme/myname/MyClass;`
 
 #### Field descriptors
 Field descriptors are the same as method descriptors just that they don't have parentheses because they aren't methods and obviously don't need arguments.
