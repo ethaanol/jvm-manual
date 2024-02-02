@@ -328,3 +328,5 @@ public static processInfo(String information) {
 ```
 
 and that is it! Now you know how to hook methods and constructors to print out any valuable information that is passed through them, although this isn't the only use for hooking, hooking can be used in many scenarios including changing code of a method or constructor to do more than it was originally intended to, or possibly less, whatever the case is hooking is a great technique to know about.
+
+Just be careful hooking any native or very internal methods as they can break certain things that you don't want breaking.
