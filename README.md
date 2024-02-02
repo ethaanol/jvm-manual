@@ -178,7 +178,7 @@ We can now see that there is an additional instruction (`aload this`) now it's k
 
 The process of virtualization is very simple, we basically make a VM (virtual machine) that can interpret the JVM bytecode, this gives us a lot more power in terms of what information we can get.
 
-A popular VM is SSVM by xxDark, it is very powerful and can be used for numerous things.
+A popular VM is SSVM by xxDark which you can find <a href="https://github.com/xxDark/SSVM">here<a>, it is very powerful and can be used for numerous things.
 The reason we need a VM is so we can virtualize stuff like method calls.
 
 Let's say we have this obfuscated piece of code:
