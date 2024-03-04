@@ -1,5 +1,7 @@
 go to the <a href="https://github.com/WalmartSolutions/jvm-manual/wiki">wiki</a> for material.
 
+## Thanks to Etho_Q/exotic for making this wiki! (All credit goes to him)
+
 # Disclaimer
 This wiki is still not *finished* and won't be for a pretty long time which means you might see missing information or incorrect information, refer to the issues page for this.
 
