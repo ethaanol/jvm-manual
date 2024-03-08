@@ -1,7 +1,5 @@
 go to the <a href="https://github.com/WalmartSolutions/jvm-manual/wiki">wiki</a> for material.
 
-# Thanks to Etho_Q/exotic for making this wiki! (All credit goes to him)
-
 # Disclaimer
 This wiki is still not *finished* and won't be for a pretty long time which means you might see missing information or incorrect information, refer to the issues page for this.
 
@@ -20,6 +18,9 @@ Contributions are completely welcome although there are a few requirements.
 - This doesn't mean you are limited to the amount of information you are allowed to give but simply means that you shouldn't make a step-by-step guide on how to crack software.
 
 There are obviously more but you should use common sense for those ones.
+
+# Credits
+<a href="https://github.com/ethaanol">exotic</a> - making and maintaining this wiki
 
 ⚫⚪⚪⚫⚪⚪⚪⚫ <br>
 ⚫⚪⚪⚫⚫⚪⚫⚪ <br>
