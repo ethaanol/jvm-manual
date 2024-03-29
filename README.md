@@ -19,9 +19,6 @@ Contributions are completely welcome although there are a few requirements.
 
 There are obviously more but you should use common sense for those ones.
 
-# Credits
-<a href="https://github.com/ethaanol">exotic</a> - making and maintaining this wiki
-
 ⚫⚪⚪⚫⚪⚪⚪⚫ <br>
 ⚫⚪⚪⚫⚫⚪⚫⚪ <br>
 ⚫⚪⚪⚪⚫⚫⚪⚫ <br>
