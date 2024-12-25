@@ -1,5 +1,7 @@
 go to the <a href="https://github.com/WalmartSolutions/jvm-manual/wiki">wiki</a> for material.
 
+Second iteration of the manual is at https://github.com/ethaanol/re-manual or https://trillium-2.gitbook.io/re-manual
+
 # Disclaimers
 This wiki is still not *finished* and won't be for a pretty long time which means you might see missing information or incorrect information, refer to the issues page for this.
 
